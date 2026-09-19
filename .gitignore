@@ -1,0 +1,22 @@
+node_modules/
+Zarb_e_Haider/node_modules/
+
+# React Native / Android
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties/
+
+# iOS
+ios/Pods/
+ios/build/
+
+# Metro
+.metro-health-check*
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
