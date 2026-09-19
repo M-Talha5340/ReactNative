@@ -58,3 +58,10 @@ const show_bonus = emp =>{
 }
 
 show_bonus(emp);
+
+for (var i = 0 ; i< 3; i++){
+    setTimeout(() => {
+        console.log(i);
+    }, 100);
+}
+console.log("Done");
