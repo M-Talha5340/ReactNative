@@ -3,10 +3,11 @@ import {View, Text} from 'react-native';
 
 const App = () => {
   return (
+    
     <View
       style={{
         flex: 1,
-        backgroundColor: 'white',
+        backgroundColor: 'red',
         justifyContent: 'center',
         alignItems: 'center',
       }}>
@@ -18,7 +19,7 @@ const App = () => {
         Hi
       </Text>
     </View>
-  );
+ );
 };
 
 export default App;
